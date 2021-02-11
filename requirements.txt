@@ -1,0 +1,6 @@
+jupyter
+ipympl
+numpy
+scipy
+seaborn
+plotly
