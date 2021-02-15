@@ -2,5 +2,4 @@ jupyter
 ipympl
 numpy
 scipy
-seaborn
-plotly
+pandas
